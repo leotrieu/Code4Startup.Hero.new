@@ -4,7 +4,7 @@
   <img src="https://s3-ap-southeast-2.amazonaws.com/code4startup.com/images/hero-new.png" alt="Clone TaskRabbit with AngularJS and Firebase">
 </p>
 
-In [Code4Newbies](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies), I will walk you through steps of how to create a very simple online education web application, a "newbies version" of Code4Startup. What you will learn:
+In [**Code4Newbies**](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies?utm_source=github.com&utm_medium=hero%20newbies&utm_campaign=democode), I will walk you through steps of how to create a very simple online education web application, a "newbies version" of Code4Startup. What you will learn:
 
 ## The course's structure
 
@@ -41,4 +41,4 @@ In [Code4Newbies](https://code4startup.com/projects/hero-learn-ruby-on-rails-and
 * Deploy our app on Heroku
 * Hey, something I would like to share
 
-##### More awesome courses are available on [Code4Startup](https://code4startup.com)
+##### More awesome courses are available on [Code4Startup](https://code4startup.com/?utm_source=github.com&utm_medium=hero%20newbies&utm_campaign=democode)
